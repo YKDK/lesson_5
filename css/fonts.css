@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "ChareInk";
+  src: url("../fonts/ChareInk-Bold.woff2") format("woff2"), url("../fonts/ChareInk-Bold.woff") format("woff");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "ChareInk";
+  src: url("../fonts/ChareInk-BoldItalic.woff2") format("woff2"), url("../fonts/ChareInk-BoldItalic.woff") format("woff");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "ChareInk";
+  src: url("../fonts/ChareInk-Italic.woff2") format("woff2"), url("../fonts/ChareInk-Italic.woff") format("woff");
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "ChareInk";
+  src: url("../fonts/ChareInk.woff2") format("woff2"), url("../fonts/ChareInk.woff") format("woff");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
